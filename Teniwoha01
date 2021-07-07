@@ -1,0 +1,17 @@
+{
+  "title": "Jyoshi Teniwoha",
+  "description": "t’s an Adorable everyday comedy about young ladies(?). All  kinds of “Cute”. It's a story about girls with different personalities, circumstances, dreams, who are living their lives. It's a springtime of youth. If I were to give an English title for Jyoshi no Teniwoha, I’d have made it simply “ALL ABOUT GIRLS”.",
+  "artist": "Runatsu",
+  "author": "Runatsu",
+  "cover": "https://i.imgur.com/1CCLJSC.png",
+  "chapters": {
+    "01": {
+      "title": "Midori's Black Hair",
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/56EBnpg/"
+      },
+      "last_updated": "1625670524"
+    }
+  }
+}
